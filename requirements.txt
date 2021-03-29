@@ -1,0 +1,11 @@
+astroid==2.5.2
+colorama==0.4.4
+isort==5.8.0
+lazy-object-proxy==1.6.0
+mccabe==0.6.1
+pylint==2.7.2
+rope==0.18.0
+selenium==3.141.0
+toml==0.10.2
+urllib3==1.26.4
+wrapt==1.12.1
