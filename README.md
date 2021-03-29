@@ -16,11 +16,11 @@ To use LessonDog, you must have the following installed on your computer:
 -Python
 -Selenium
 
-If you don't tick all the boxes, continue reading with the topic below. If you tick all the boxes, you can start using it. Open the `login.py` file, edit the `usernameStr` and `passwordStr` variables according to your own credentials. You can now start the bot. After running it will ask you for how many lessons you have. Be sure not to enter this information incorrectly. Otherwise, the bot will malfunction or not work.
+If you don't tick all the boxes, continue reading with the topic below. If you tick all the boxes, you can start using it. Open the `lessondog.py` file, edit the `usernameStr` and `passwordStr` variables according to your own credentials. You can now start the bot. After running it will ask you for how many lessons you have. Be sure not to enter this information incorrectly. Otherwise, the bot will malfunction or not work.
 
 ## How to check the requirements?
 
-The version of Google Chrome you are using must be the same as the version of the `chromedriver.exe` file in the main folder where the `login.py` file is located. Otherwise, you may get an error. In the specified folder, by default, there is a version of `89.0.4389.23` of the `chromedriver.exe` file. You can download the required version from [this link](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+The version of Google Chrome you are using must be the same as the version of the `chromedriver.exe` file in the main folder where the `lessondog.py` file is located. Otherwise, you may get an error. In the specified folder, by default, there is a version of `89.0.4389.23` of the `chromedriver.exe` file. You can download the required version from [this link](https://sites.google.com/a/chromium.org/chromedriver/downloads).
 
 ### How to check Google Chrome Version?
 
@@ -60,11 +60,11 @@ LessonDog'u kullanabilmek için bilgisayarınızda şunlar yüklü olmalıdır:
 -Python
 -Selenium
 
-Gereksinimleri karşılamıyorsanız okumaya, aşağıdaki başlıkla devam edin. Eğer gereksinimleri karşılıyorsanız kullanmaya başlayabilirsiniz. `login.py` dosyasını açın, `usernameStr` ve `passwordStr` değişkenlerini kendi bilgilerinize göre düzenleyin. Artık botu çalıştırabilirsiniz. Çalıştırdıktan sonra size, aldığınız ders sayısını soracaktır. Bu bilgiyi hatalı girmediğinizden emin olun. Aksi takdirde bot, hatalı çalışacaktır veya çalışmayacaktır.
+Gereksinimleri karşılamıyorsanız okumaya, aşağıdaki başlıkla devam edin. Eğer gereksinimleri karşılıyorsanız kullanmaya başlayabilirsiniz. `lessondog.py` dosyasını açın, `usernameStr` ve `passwordStr` değişkenlerini kendi bilgilerinize göre düzenleyin. Artık botu çalıştırabilirsiniz. Çalıştırdıktan sonra size, aldığınız ders sayısını soracaktır. Bu bilgiyi hatalı girmediğinizden emin olun. Aksi takdirde bot, hatalı çalışacaktır veya çalışmayacaktır.
 
 ## Gereksinimler nasıl kontrol edilir?
 
-Kullandığınız Google Chrome versiyonu ile, `login.py` dosyasının bulunduğu ana klasördeki `chromedriver.exe` dosyasının versiyonu aynı olmalıdır. Aksi takdirde hata alabilirsiniz. Belirtilen klasörde, varsayılan olarak `chromedriver.exe` dosyasının `89.0.4389.23` versiyonu bulunmaktadır. [Bu bağlantıdan](https://sites.google.com/a/chromium.org/chromedriver/downloads) size uygun olan versiyonu indirebilirsiniz.
+Kullandığınız Google Chrome versiyonu ile, `lessondog.py` dosyasının bulunduğu ana klasördeki `chromedriver.exe` dosyasının versiyonu aynı olmalıdır. Aksi takdirde hata alabilirsiniz. Belirtilen klasörde, varsayılan olarak `chromedriver.exe` dosyasının `89.0.4389.23` versiyonu bulunmaktadır. [Bu bağlantıdan](https://sites.google.com/a/chromium.org/chromedriver/downloads) size uygun olan versiyonu indirebilirsiniz.
 
 ### Google Chrome Versiyonunu Kontrol Etme:
 
